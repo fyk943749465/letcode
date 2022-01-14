@@ -6,6 +6,7 @@ import java.util.Map;
 
 public class Question1 {
 
+    
     public int[] twoSum(int[] nums, int target) {
 
         int[] num = new int[2];
